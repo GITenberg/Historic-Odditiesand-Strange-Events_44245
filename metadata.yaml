@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44245#Historic-Odditiesand-Strange-Events
 gutenberg_issued: '2013-11-21'
 gutenberg_type: Text
 identifiers:
